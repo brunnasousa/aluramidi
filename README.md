@@ -2,10 +2,12 @@
 
 <hr>
 
-<p align="center">Alura midi - joguinho que toca sons desejados</p>,
+<p align="center">Alura midi - joguinho que toca sons desejados</p>
 
 ## Onde encontrar?
-- link: https://brunnasousa.github.io/aluramidi/
+
+<p>Projeto está hospedado pelo GitHub pages e você pode acessar pelo <a href="https://brunnasousa.github.io/aluramidi/" target="_blank" rel="external">link.</a> </p>
+
 
 ## Tecnologias
 * HTML
