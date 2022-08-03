@@ -8,6 +8,8 @@
 
 <p>Projeto está hospedado pelo GitHub pages e você pode acessar pelo <a href="https://brunnasousa.github.io/aluramidi/" target="_blank" rel="external">link.</a> </p>
 
+- link alternativo: https://brunnasousa.github.io/aluramidi/
+
 
 ## Tecnologias
 * HTML

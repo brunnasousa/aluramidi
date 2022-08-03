@@ -65,3 +65,15 @@ h1 {
 .tecla:active:focus {
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset, 1px 1px 10px var(--luz);
 }
+
+
+
+.footer{
+  color: var(--branca);
+  font-size: 1.03rem;
+}
+
+.footer a:hover{
+  color: var(--vermelha);
+  transition: color .2s ease;
+}
