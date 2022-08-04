@@ -14,11 +14,12 @@
 
 ## 💻 Sobre o projeto
 
-- o usuario pode clicar ou pertar a tecla 'Enter' ou 'Space' do teclado que vai ser imitido um som como: Pom, Clap, Tim, Puff, Splash, Toim, Psh, Tic e Tom..
+- o usuario pode clicar no botão ou pertar a tecla 'Enter' ou 'Space' do teclado.
+- Vai ser imitido um som como: Pom, Clap, Tim, Puff, Splash, Toim, Psh, Tic e Tom.
 
 ## 🛠 Ferramentas
 
-As seguintes ferramentas foram usadas na construção do projeto até o momento:
+As seguintes ferramentas foram usadas na construção do projeto:
 
 -   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -26,11 +27,11 @@ As seguintes ferramentas foram usadas na construção do projeto até o momento:
 
 ## 🎨 Paleta de cor
 
---cinza: #aaa;
---vermelha: #e93d50;
---vermelha-escura: #af303f;
---branca: #fff;
---luz: rgb(229, 255, 0);
+- cinza: #aaa;
+- vermelha: #e93d50;
+- vermelha-escura: #af303f;
+- branca: #fff;
+- luz: rgb(229, 255, 0);
 
 ## 📝 Autor - Contact
 
