@@ -26,12 +26,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 🎨 Paleta de cor
+- #6C7078;  Para o botão
 
-- cinza: #aaa;
-- vermelha: #e93d50;
-- vermelha-escura: #af303f;
-- branca: #fff;
-- luz: rgb(229, 255, 0);
+- #fff; -> branca
+- #aaa; -> cinza
+- #e93d50; -> vermelha
+- #af303f; -> vermelha-escura
+- rgb(229, 255, 0); -> luz
 
 ## 📝 Autor - Contact
 
